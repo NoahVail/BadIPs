@@ -1,4 +1,7 @@
-# List of ShadowServer IPv6 addresses as of 4/8/2024
+# list of 1141 ShadowServer IPv6 scanning addresses
+# sorted by hosthame
+# current as of 4/8/2024
+# 
 #
 2001:470:1:c84::40 # scan-00-00.shadowserver.org
 2001:470:1:c84::41 # scan-00-01.shadowserver.org
