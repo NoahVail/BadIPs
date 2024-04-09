@@ -1,5 +1,18 @@
 # leakix mass scanners compiled on 2/12/24
 #
+# as of 4/9/24 many/most of these domains no
+# longer resolve to IPs. Some IPs now rDNS to
+# nonsensical domains or have reverted back to
+# their host default names. A spot check of IPs
+# at AbuseIPdb mostly shows IPs that went silent 
+# ~3/11/24 but some were still busy into April 2024.
+#
+# Leakix began 2022 or earler. I'm leaving this
+# list up while I evaluate what leakix is up to
+# (or not up to). Some IPs are still manifesting
+# crappy behavior - so it still has vaule.
+# 
+#
 178.79.169.60 # admin.leakix.org
 165.22.120.216 # advise.scan.leakix.org
 165.22.74.203 # aitechnology.scan.leakix.org
