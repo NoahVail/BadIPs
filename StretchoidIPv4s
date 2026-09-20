@@ -336,6 +336,12 @@
 20.80.90.86 #	 azpdcgrlryzo.stretchoid.com
 20.80.92.37 #	 azpdcs014ym1.stretchoid.com
 20.80.93.110 #	 azpdcshag3zm.stretchoid.com
+20.80.93.119 # azpdcsygk5sv.stretchoid.com
+20.80.93.120 # azpdcss06qj9.stretchoid.com
+20.80.93.123 # azpdcgbhzdz6.stretchoid.com
+20.80.93.133 # azpdcse1rs2a.stretchoid.com
+20.80.93.141 # azpdcsw5nx2o.stretchoid.com
+20.80.93.143 # azpdcsb1og0h.stretchoid.com
 20.80.97.79 #	 azpdcgp6yx1s.stretchoid.com
 20.80.97.97 #	 azpdcseazkjz.stretchoid.com
 20.80.98.104 #	 azpdcgav6696.stretchoid.com
@@ -735,7 +741,9 @@
 20.221.75.144 #	 azpdcsl9oudg.stretchoid.com
 20.221.75.253 #	 azpdcgar0hc1.stretchoid.com
 20.237.185.225 #	 t.stretchoid.com
+20.237.185.225 # aztswsh02pde.t.stretchoid.com
 20.237.209.50 #	 t.stretchoid.com
+20.237.209.50 # aztswsr1mcob.t.stretchoid.com
 20.237.216.112 #	 t.stretchoid.com
 20.245.6.47 #	 t.stretchoid.com
 20.245.28.39 #	 t.stretchoid.com
@@ -975,6 +983,7 @@
 51.8.96.89 #	 azpdes3gsqtf.stretchoid.com
 52.151.194.62 #	 azpdesf9heue.stretchoid.com
 52.159.226.229 #	 t.stretchoid.com
+52.159.226.229 # aztsws1pcccn.t.stretchoid.com
 52.165.83.166 #	 azpdcs73d9y9.stretchoid.com
 52.165.83.186 #	 azpdcsoq6e5b.stretchoid.com
 52.165.83.212 #	 azpdcg0jnrxj.stretchoid.com
@@ -1221,12 +1230,3 @@
 172.212.224.53 #	 azpdcs32shoj.stretchoid.com
 172.212.224.63 #	 azpdcgh6jzei.stretchoid.com
 172.212.225.71 #	 azpdcgak5vo6.stretchoid.com
-20.80.93.119 # azpdcsygk5sv.stretchoid.com
-20.80.93.120 # azpdcss06qj9.stretchoid.com
-20.80.93.123 # azpdcgbhzdz6.stretchoid.com
-20.80.93.133 # azpdcse1rs2a.stretchoid.com
-20.80.93.141 # azpdcsw5nx2o.stretchoid.com
-20.80.93.143 # azpdcsb1og0h.stretchoid.com
-20.237.185.225 # aztswsh02pde.t.stretchoid.com
-20.237.209.50 # aztswsr1mcob.t.stretchoid.com
-52.159.226.229 # aztsws1pcccn.t.stretchoid.com
