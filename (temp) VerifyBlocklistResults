@@ -1,3 +1,13 @@
+# This is a check I ran on a stretchoid blocklist
+# from a trustworthy blocklist provider.
+# Assuming no ptr means the IP is no longer
+# utilized by stretchoid, then their blocklist
+# is almost entirely out of date.
+#
+# I suspect the reason for that is that
+# stretchoid has changed their deployment
+# method and are rapidly onboarding/offboarding IPs
+# 
 4.150.190.180 # no-ptr, NOERROR-no-answer
 4.150.191.6 # no-ptr, NOERROR-no-answer
 4.227.178.194 # no-ptr, NOERROR-no-answer
