@@ -1,12 +1,19 @@
 # This is a check I ran on a stretchoid blocklist
 # from a trustworthy blocklist provider.
+# 
+# Stretchoid typically has a ptr to a name
+# that contains their domain. On these IPs
+# I checked for a rdns (in addition to ptr)
+# in case that yielded something useful.
+#
 # Assuming no ptr means the IP is no longer
 # utilized by stretchoid, then their blocklist
 # is almost entirely out of date.
 #
-# I suspect the reason for that is that
-# stretchoid has changed their deployment
-# method and are rapidly onboarding/offboarding IPs
+# I suspect the reason for so many expired 
+# IPs is that stretchoid has changed their 
+# deployment method and are continually 
+# onboarding/offboarding IPs
 # 
 4.150.190.180 # no-ptr, NOERROR-no-answer
 4.150.191.6 # no-ptr, NOERROR-no-answer
