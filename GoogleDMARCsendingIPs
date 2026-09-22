@@ -1,8 +1,20 @@
-209.85.128.201
+209.85.128.201 # witnessed
 209.85.128.202 # assumed
-209.85.160.201
-209.85.160.202
-209.85.219.73
-209.85.219.74
-209.85.222.201
-209.85.222.202
+209.85.160.201 # witnessed
+209.85.160.202 # witnessed
+209.85.166.201 # assumed
+209.85.166.202 # witnessed
+209.85.167.201 # witnessed
+209.85.167.202 # assumed
+209.85.210.201 # witnessed
+209.85.210.202 # assumed
+209.85.219.73 # witnessed
+209.85.219.74 # witnessed
+209.85.221.201 # assumed 
+209.85.221.202 # witnessed
+209.85.222.201 # witnessed
+209.85.222.202 # witnessed
+
+#############
+# witnessed = seen in email headers
+# assumed = not seen but fits IP pattern
