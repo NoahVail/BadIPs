@@ -9,7 +9,7 @@ ShadoowServer IPv6: IPv6 addresses found during aformentioned SS scan.
 Stretchoid IPv4: The entirety of AS8075 gets scanned every 6 hours for Stretchoid IPs.
 
 Stretchoid backstory: I kept getting Stretchoid scans, even tho I had stretchoid blocklits in place.
-Searching for these newfound stretched IPs revealed that none of the blocklist providers had these IP, often not days later.
+When I searched for a blocklist that contained these newfound stretched IPs, I kept coming up empty (even days later).
 From what I tell, Stretchoid is continually adding to/deleting from it's IP group. That would seem to be why other list providers are lacking.
 
 Of note: I reviewed a few stretchoid blocklists and couldn't find one that was more that 50% current. Most were in the single digits.
