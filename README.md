@@ -12,4 +12,4 @@ Stretchoid backstory: I kept getting Stretchoid scans, even tho I had stretchoid
 When I searched for a blocklist that contained these newfound stretched IPs, I kept coming up empty (even days later).
 From what I tell, Stretchoid is continually adding to/deleting from it's IP group. That leaves the existing blocklists out of date.
 
-Of note: I reviewed a few stretchoid blocklists and couldn't find one that was more that 50% current. Most were in the single digits.
+Of note: I reviewed a few stretchoid blocklists and none were more that 50% current. Most were in the single digits.
