@@ -1,4 +1,4 @@
-GmailSendingIPs: For my limited-use email server. It receives no legit emails, only spam. However, I need to receive DMARC reports from Google. I have to selectively block IPs; I can't block gmail's entire IP space. 
+GmailSendingIPs: For my limited-use email server. It receives no legit gmail.com emails, only spam. However, I need to receive DMARC reports from Google. I have to selectively block IPs; I can't block gmail's entire IP space. 
 
 GoogleDMARCSendingIPs: Every IP I have found sending DMARC reports on behalf of Google. 
 
