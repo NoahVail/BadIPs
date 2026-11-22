@@ -1,4 +1,4 @@
-GmailSendingIPs: For my limited-use email server. It receives no legit gmail.com emails, only spam. However, I need to receive DMARC reports from Google. I can't block gmail's entire IP space. 
+GmailSendingIPs: IPs that send gmail. For my own use.
 
 GoogleDMARCSendingIPs: Every IP I have found sending DMARC reports on behalf of Google. 
 
@@ -6,10 +6,8 @@ ShadowServer 24: Eight CIDR that contain every IP ShadowServer IPv4 address. I f
 
 ShadoowServer IPv6: IPv6 addresses found during aforementioned SS scan.
 
-Stretchoid IPv4: The entirety of AS8075 gets scanned every 6 hours for Stretchoid IPs.
+Stretchoid IPv4: AS8075 gets scanned every 6 hours for Stretchoid IPs.
 
 Stretchoid backstory: I kept getting Stretchoid scans, even though I had stretchoid blocklists in place.
 When I searched for a blocklist that contained these newfound stretched IPs, I kept coming up empty (even days later).
-From what I tell, Stretchoid is continually adding to/deleting from it's IP group. That leaves the existing blocklists out of date.
-
-Of note: I reviewed a few stretchoid blocklists and none were more than 50% current. Most were much less. 
+Stretchoid may be continually adding to/deleting from it's IP group. If so, most existing blocklists are soon out of date.
